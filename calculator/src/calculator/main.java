@@ -1,6 +1,6 @@
 package calculator;
 
-import javax.swing.JFrame;
+import calculator.GUI;
 
 public class main {
 	public static void main(String[]args) {
