@@ -3,7 +3,7 @@ import javax.swing.*;
 import java.awt.*;
 import java.awt.event.*;
 
-public class GUI<Calc> extends JFrame {
+public class GUI extends JFrame {
     private static final int FRAME_LENGHT=300;
     private static final int FRAME_HEIGHT=200;
     private static final int FRAME_X_ORIGIN=150;
